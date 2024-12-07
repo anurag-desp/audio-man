@@ -1,0 +1,5 @@
+./audio
+./output_segments
+./data
+./rename_output
+./__pycache__

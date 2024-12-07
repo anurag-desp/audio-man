@@ -3,6 +3,7 @@ Audio Man is an audio manipulation tool. I created it help my professor split di
 
 ## Usage
 - You can clone this repo and use the functions directly
+    - To install all the required python packages 
 ```
 pip install -r requirements.txt
 ```

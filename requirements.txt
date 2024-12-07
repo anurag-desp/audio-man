@@ -1,0 +1,15 @@
+click==8.1.7
+colorama==0.4.6
+ffmpeg-python==0.2.0
+future==1.0.0
+natsort==8.4.0
+pydub==0.25.1
+PyQt5==5.15.9
+pyqt5-plugins==5.15.9.2.3
+PyQt5-Qt5==5.15.2
+pyqt5-tools==5.15.9.3.3
+PyQt5_sip==12.15.0
+pyte==0.8.2
+python-dotenv==1.0.1
+qt5-applications==5.15.2.2.3
+qt5-tools==5.15.2.1.3
